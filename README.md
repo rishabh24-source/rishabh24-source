@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rishabh Kumar Singh</h1>
-<h3 align="center">Aspiring DevOps & Cloud Engineer | CSE Student | Automating Everything I Can</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EA3F2,100:8A2EF2&height=220&section=header&text=Rishabh%20Kumar%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20DevOps%20%26%20Cloud%20Engineer%20|%20CSE%20Student&descAlignY=55&descSize=18" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=DevOps+%7C+Cloud+%7C+Kubernetes;Building+%26+Automating+Infrastructure;Learning+by+Breaking+Things+%26+Fixing+Them;Open+to+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
@@ -18,6 +19,8 @@
 </p>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### 🧑‍💻 About Me
 
@@ -86,6 +89,18 @@
 </p>
 
 ---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rishabh24-source/rishabh24-source/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2EF2,100:2EA3F2&height=120&section=footer" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rishabh24-source&label=Profile%20Views&color=2EA3F2&style=flat" />
